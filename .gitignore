@@ -1,3 +1,7 @@
 *.csv
 # Ignore large data files
 Project2Data.csv
+Project2Data.csv
+*.csv
+# 忽略大型数据文件
+# Large data files should not be tracked
