@@ -1,0 +1,3 @@
+*.csv
+# Ignore large data files
+Project2Data.csv
